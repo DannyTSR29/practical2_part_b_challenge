@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practical2_part_b_challenge</string>
+    <string name="toast_message">TAN SOON RONG 19WMD03685</string>
+    <string name="toast_text">Toast</string>
+    <string name="count_text">Count</string>
+    <string name="count_num">0</string>
+</resources>
